@@ -472,7 +472,7 @@ body {
 }
 
 .stats-list .material-icons {
-    color: var(--success);
+    color: var(--primary);
     font-size: 24px;
 }
 
@@ -1016,7 +1016,7 @@ body {
     background: var(--white);
     border: 1px solid var(--gray-200);
     border-radius: var(--radius-md);
-    padding: var(--spacing-2);
+    padding: var(--spacing-4);
     transition: all 0.3s ease;
     overflow: hidden;
 }
